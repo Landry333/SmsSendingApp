@@ -2,9 +2,7 @@ language: android
 os: windows
 dist: trusty
 jdk:
-  - oraclejdk8
   - openjdk7
-  - openjdk8
 
 env:
   global:
