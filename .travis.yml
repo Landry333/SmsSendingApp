@@ -1,7 +1,7 @@
 language: android
 dist: trusty
 jdk:
-  - openjdk7
+  - openjdk8
 
 env:
   global:
